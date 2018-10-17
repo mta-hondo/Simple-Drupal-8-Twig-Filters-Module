@@ -1,6 +1,6 @@
 services:
   simple_twig_filters.twig_extension:
     arguments: ['@renderer']
-    class: Drupal\simple_twig_filters\TwigExtension\testdunction
+    class: Drupal\simple_twig_filters\TwigExtension\testfunction
     tags:
       - { name: twig.extension }
