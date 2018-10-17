@@ -1,2 +1,2 @@
 # Simple-Drupal-8-Twig-Filters-Module
-A Simple Module to print Twig Filters in Drupal 8 themes
+A simple module to print twig filters in drupal 8 themes
