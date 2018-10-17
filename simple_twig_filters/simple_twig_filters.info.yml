@@ -1,0 +1,6 @@
+name: Simple Drupal 8 Twig Filters Module
+description: A simple module to print twig filters in drupal 8 themes.
+package: Custom
+
+type: module
+core: 8.x
